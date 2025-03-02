@@ -1,0 +1,13 @@
+
+    <meta charset="UTF-8"> <!-- Define The Content Encoding -->
+    <meta name="author" content="Basma"> <!-- Define the author of a page -->
+    <meta name="description" content="This Is Description For My First Page"/> <!--  Define a description of your web page  -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!--  Setting the viewport to make the website look good on all devices  -->
+    
+  <h1> HTML = hypertext markup language </h1>
+  <p> This Is My First Page </p>
+  <p> Question 01 => No </p>
+  <p> Question 02 => Yes </p>
+  <p> Question 03 => No </p>
+  <p> Question 04 => No </p>
+  
