@@ -1,0 +1,52 @@
+  <!-- Type Question 1 Answer Below -->
+    <p> !DOCTYPE html </p>
+
+<!-- Type Question 2 Answer Below -->
+    <p> quirks mode </p>
+
+<!-- Type Question 3 Answer Below -->
+    <p> no </p>
+
+<!-- Type Question 4 Answer Below -->
+    <p> no </p>
+
+<!-- Type Question 5 Answer Below -->
+    <p> heading tags</p>
+  
+<!--  no difference  -->
+<p class="element">Welcome To The New World</p>
+<p class='element'>Welcome To The New World</p>
+<p class=element>Welcome To The New World</p>
+<!--  won't appear  -->
+  <p class=element hidden>Welcome To The New World</p>
+<p class="element" hidden>Welcome To The New World</p>
+  
+  <p>Hello World</p>
+
+<!--  no difference  -->
+<p>
+Hello World
+</p>
+
+<p>
+Hello
+World
+</p>
+
+<p>
+Hello
+
+
+World
+</p>
+<!--   
+    title → yes
+    href → yes
+    src → no
+    hidden → yes
+    charset → no
+    class → yes
+    id → yes
+    type → no
+   -->
+  
